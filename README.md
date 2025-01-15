@@ -1,5 +1,6 @@
 # Reflections on Data Science 2025 exercises
 
+Exercises will be in 2A18 and 2A20, as neither of us have mastered the art of being in two places at once yet.
 ***
 
 ## Week 1: [Exercises_01](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_01)
