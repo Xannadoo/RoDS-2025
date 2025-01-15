@@ -24,7 +24,7 @@
 ## Week 4: Final session with focus on BS journals
 - Continue working on your bullshit journals.
 - - [Example BS Journals](https://github.com/Xannadoo/RoDS-2025/tree/main/TAs%20BS%20Journals)
-- If you want feedback on your group BS journal, the deadline for submission on learnit is this week, 25/02. Your journal doesn't need to be completely polished yet :)
+- If you want feedback on your group BS journal, the deadline for submission on learnit is this week, 28/02 at midnight. Your journal doesn't need to be completely polished yet :)
 
 ***
 
