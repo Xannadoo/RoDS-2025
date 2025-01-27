@@ -3,7 +3,7 @@
 Exercises will be in 2A18 and 2A20, as neither of us have mastered the art of being in two places at once yet.
 ***
 
-## Week 1: [Exercises_01](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_01)
+## Week 1: 28/01 [Exercises_01](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_01)
 - [The Lie Factor notebook](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_01/1%20-%20The%20Lie%20Factor.ipynb)
 - [Fermi estimates notebook](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_01/2%20-%20Fermi%20estimation.ipynb)
 - [Null model preparation for next week's lecture](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_01/3%20-%20Null%20models%20(preparation).ipynb)
@@ -11,39 +11,55 @@ Exercises will be in 2A18 and 2A20, as neither of us have mastered the art of be
 ***
 
 # Bullshit journals
-## Week 2: [Exercises_02](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_02)
+## Week 2: 04/02 [Exercises_02](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_02)
 - [Multiple Hypotheses notebook](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_02/1%20-%20Multiple%20hypotheses.ipynb)
 - Begin to work on your bullshit journals
 
-## Week 3: [Exercises_03](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_03)
+## Week 3: 11/02 [Exercises_03](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_03)
 [P-hacking PDF](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_03/1-p-hacking.pdf)
 - [Green dice are loaded notebook](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_03/1-p-hacking.ipynb)
 
 - Continue to work on your own bullshit journals.
 - Deadline for exam group formation is before the exercise session today 11/02, we will assign anyone not yet in a group of 3-4 today.
 
-## Week 4: Final session with focus on BS journals
+## Week 4: 18/02 
 - Continue working on your bullshit journals.
-- - [Example BS Journals](https://github.com/Xannadoo/RoDS-2025/tree/main/TAs%20BS%20Journals)
+- [Example BS Journals](https://github.com/Xannadoo/RoDS-2025/tree/main/TAs%20BS%20Journals)
+ 
+## Week 5: 25/02
 - If you want feedback on your group BS journal, the deadline for submission on learnit is this week, 28/02 at midnight. Your journal doesn't need to be completely polished yet :)
+
+## Week 6: 04/03
+- Final session with focus on BS journals
 
 ***
 
 # Generative AI Project
-## Week 6 
+## Week 7: 11/03
 Introduction to the Generative AI project by **Anna Rogers** during the exercise session. We highly recommend coming along - room TBC.
 
-## Week 7
+## Week 8: 18/03
 Finish designing study, gather data, start analysis
 
-## Week 8
+## Week 9: 25/03
 Finish analysis, discuss results, start the report
 
-## Week 9
+## Week 10: 01/04
 Finish the report
 
-## Week 10 + 11
-Catch up sessions
+## Week 11: 08/04
+Catch up session - this is the final exercise session so ask us anything (preferably course related)
+
+***
+## Week 12 & 14: 22/04 & 06/05
+- Presentations:
+  - You reflect on your bachelor thesis (alternatively second-year project). Use the concepts learned in the course to analyse your own work!
+  - You have 5 mins per student (so if you are writing in a pair, you have 10mins), then you will get feedback to help your reflections.
+  - The slide deck becomes part of your exam submission, you are free to update it before the handin. It is a good idea to include speaker notes/etc for anything that should be included that isn't explicitly on your slides. 
+  - After both sessions, general feedback will be released on learnit.
+
+## Week 13: 29/04
+- No planned lecture or exercises this week. 
 
 ***
 
