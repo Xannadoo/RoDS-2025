@@ -20,11 +20,11 @@ Exercises will be in 2A18 and 2A20, as neither of us have mastered the art of be
 - [Green dice are loaded notebook](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_03/1-p-hacking.ipynb)
 
 - Continue to work on your own bullshit journals.
+- [Example BS Journals](https://github.com/Xannadoo/RoDS-2025/tree/main/TAs%20BS%20Journals)
 - Deadline for exam group formation is before the exercise session today 11/02, we will assign anyone not yet in a group of 3-4 today.
 
-## Week 4: 18/02 
-- Continue working on your bullshit journals.
-- [Example BS Journals](https://github.com/Xannadoo/RoDS-2025/tree/main/TAs%20BS%20Journals)
+## Week 4: 18/02 CHANGE THIS WEEK!
+__Introduction to the Generative AI project by **Anna Rogers** during the exercise session. We highly recommend coming along - room AUD4.__
  
 ## Week 5: 25/02
 - If you want feedback on your group BS journal, the deadline for submission on learnit is this week, 28/02 at midnight. Your journal doesn't need to be completely polished yet :)
@@ -36,7 +36,7 @@ Exercises will be in 2A18 and 2A20, as neither of us have mastered the art of be
 
 # Generative AI Project
 ## Week 7: 11/03
-Introduction to the Generative AI project by **Anna Rogers** during the exercise session. We highly recommend coming along - room TBC.
+If you haven't already, start planning your generative ai project
 
 ## Week 8: 18/03
 Finish designing study, gather data, start analysis
